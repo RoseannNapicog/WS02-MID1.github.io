@@ -35,8 +35,8 @@ header {
 .neonText {
     color: #fff;
     text-shadow: 0 0 7px #B7EAF7, 0 0 10px #B7EAF7, 0 0 21px #33CCFF, 0 0 42px #33CCFF, 0 0 82px #0fa, 0 0 92px #0fa, 0 0 102px #0000FF, 0 0 151px #0000FF;
-    text-align: center;
     padding: 350px;
+    text-align: center;
 }
 
 h1 {
